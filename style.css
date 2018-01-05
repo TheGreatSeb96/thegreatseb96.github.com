@@ -13,14 +13,14 @@ body {
 .header-text{
 	color: #ffffff;
 	font-size: 25px;
-	font-family: Verdana;
+	font-family: Roboto;
 	text-align: center;
 }
 .nav{
     padding: 10px;
     color: #ffffff;
     background-color: #E91E63);
-    font-family: Verdana;
+    font-family: Roboto;
     text-decoration:  none;
 }
 .nav-text{
@@ -46,7 +46,7 @@ body {
     }
 .specs-header{
 	color: black;
-	font-family: Verdana;
+	font-family: Roboto;
 	padding: 25px;
 	margin-left: 20px;
 	text-align: center;
@@ -58,12 +58,12 @@ body {
 }
 .specs-desc{
 	color: #ffffff;
-	font-family: Verdana;
+	font-family: Roboto;
 	font-size: 10px;
 }
 .specs-title{
 	color: #F06292;
-	font-family: Verdana;
+	font-family: Roboto;
 	font-size: 10px; 
 }
 table, td, th {    
@@ -85,7 +85,7 @@ table {
 }
 .aboutme-header{
 	color: black;
-	font-family: Verdana;
+	font-family: Roboto;
 	padding: 25px;
 	margin-left: 20px;
 	text-align: center;
