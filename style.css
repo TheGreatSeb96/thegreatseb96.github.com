@@ -27,7 +27,7 @@ body {
 	 color: #ffffff;
 	 text-decoration:  none;
 }
-ul{
+.navbar{
 	background-color: #F06292;
     font-family: Roboto;
     max-width: 1000px;
@@ -67,7 +67,6 @@ ul{
 	font-size: 10px; 
 }
 table, td, th {    
-    border: 1px solid #ddd;
     text-align: left;
 }
 table {
@@ -77,10 +76,43 @@ table {
     vertical-align: baseline;
     margin: auto;
 }
-img{
+.setup-image{
   	display: block;
   	max-width:664px;
   	max-height:373px;
   	width: auto;
   	height: auto;
+}
+tr:hover {background-color:#0f0f0f;}
+.aboutme-header{
+	color: black;
+	font-family: Verdana;
+	padding: 25px;
+	margin-left: 20px;
+	text-align: center;
+}
+.social-image{
+	display: block;
+	max-width: 50px;
+	max-height: 50px;
+	width: auto;
+	height: auto;
+	margin: auto;
+}
+.smbar{
+	background-color: #F06292;
+    font-family: Roboto;
+    max-width: 1000px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative;
+    text-align: center;
+    list-style: none;
+    margin: auto;
+    padding: 10px;
+    -webkit-padding-start: 0px;
+    height: 50px;
+    color:white;
+    text-decoration: none;
 }
