@@ -83,7 +83,6 @@ table {
   	width: auto;
   	height: auto;
 }
-tr:hover {background-color:#0f0f0f;}
 .aboutme-header{
 	color: black;
 	font-family: Verdana;
@@ -116,3 +115,4 @@ tr:hover {background-color:#0f0f0f;}
     color:white;
     text-decoration: none;
 }
+tr:hover {background-color:#0f0f0f;}
