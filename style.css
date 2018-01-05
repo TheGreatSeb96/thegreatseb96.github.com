@@ -1,6 +1,6 @@
 
 body {
-	background: white);
+	background-color: #1e1e1e;
 	padding: 0;
 	margin: 0;
 	vertical-align: baseline;
@@ -11,7 +11,7 @@ body {
 	padding-top: 5px;
 }
 .header-text{
-	color: #ffffff;
+	color: white;
 	font-size: 25px;
 	font-family: Roboto;
 	text-align: center;
@@ -45,11 +45,10 @@ body {
     text-decoration: none;
     }
 .specs-header{
-	color: black;
+	color: white;
 	font-family: Roboto;
-	padding: 25px;
-	margin-left: 20px;
-	text-align: center;
+	text-align: left;
+	padding-top: 20px;
 }
 #specs{
 	background-color:; 
@@ -60,21 +59,25 @@ body {
 	color: #ffffff;
 	font-family: Roboto;
 	font-size: 10px;
+	padding-right: 15px;
 }
 .specs-title{
 	color: #F06292;
 	font-family: Roboto;
 	font-size: 10px; 
+	padding-right: 15px;
 }
 table, td, th {    
     text-align: left;
 }
 table {
     border-collapse: collapse;
-    max-width: 1200px;
-    background-color: #1e1e1e;
+    max-width: 1400px;
+    background-color: black;
     vertical-align: baseline;
     margin: auto;
+    border-bottom: 3px solid #F06292;
+    border-top:  3px solid  #F06292;
 }
 .setup-image{
   	display: block;
@@ -82,13 +85,18 @@ table {
   	max-height:373px;
   	width: auto;
   	height: auto;
+  	padding: 10px;
+}
+#aboutme{
+	background-color:; 
+	margin:auto;
+	max-width: 1000px;
 }
 .aboutme-header{
-	color: black;
+	color: white;
 	font-family: Roboto;
-	padding: 25px;
-	margin-left: 20px;
-	text-align: center;
+	text-align: left;
+	padding-top: 30px; 
 }
 .social-image{
 	display: block;
@@ -115,4 +123,9 @@ table {
     color:white;
     text-decoration: none;
 }
-tr:hover {background-color:#0f0f0f;}
+.pcpp-link{
+	font-family: Roboto;
+	color: white;
+	text-align: left;
+}
+tr:hover {background-color: #000000;}
