@@ -19,7 +19,7 @@ body {
 .nav{
     padding: 10px;
     color: #ffffff;
-    background-color: #E91E63);
+    background-color: #01579b);
     font-family: Roboto;
     text-decoration:  none;
 }
@@ -28,7 +28,7 @@ body {
 	 text-decoration:  none;
 }
 .navbar{
-	background-color: #F06292;
+	background-color: #29b6f6;
     font-family: Roboto;
     max-width: 1000px;
     display: flex;
@@ -62,7 +62,7 @@ body {
 	padding-right: 15px;
 }
 .specs-title{
-	color: #F06292;
+	color: #29b6f6;
 	font-family: Roboto;
 	font-size: 10px; 
 	padding-right: 15px;
@@ -76,8 +76,8 @@ table {
     background-color: black;
     vertical-align: baseline;
     margin: auto;
-    border-bottom: 3px solid #F06292;
-    border-top:  3px solid  #F06292;
+    border-bottom: 3px solid #29b6f6;
+    border-top:  3px solid  #29b6f6;
 }
 .setup-image{
   	display: block;
@@ -107,7 +107,7 @@ table {
 	margin: auto;
 }
 .smbar{
-	background-color: #F06292;
+	background-color: #29b6f6;
     font-family: Roboto;
     max-width: 1000px;
     display: flex;
